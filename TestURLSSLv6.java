@@ -2,11 +2,11 @@
 	Author: P Mahieu
 	Date:	May 2017
 	Goal:	Injector multithreads
-                This application takes 3 mandatory arguments:
+        This application takes 3 mandatory arguments:
 		Argument 1: the hpps url you wanna test
 		Argument 2: the number of loop (example 100)
-               		Argument 3: the number of threads (example 20)
-		Argument 4: debug (Y or N)
+        Argument 3: the number of threads (example 20)
+		Argument 4: debug (Y or N)  << Optional
 */
 import java.io.BufferedWriter;
 import java.io.File;
